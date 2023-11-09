@@ -20,6 +20,8 @@ Before submitting a pull request, please:
 
 We follow the Google C++ Style Guide. Please ensure that your code is consistent with this style guide.
 
+-Clean Arquitecture 
+
 ### Testing
 
 We require that all code changes are accompanied by tests. Please add unit tests for your new code and update existing tests as needed.
