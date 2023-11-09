@@ -19,7 +19,6 @@ Before submitting a pull request, please:
 ### Code style
 
 We follow the Google C++ Style Guide. Please ensure that your code is consistent with this style guide.
--Clean Arquitecture
 
 ### Testing
 
